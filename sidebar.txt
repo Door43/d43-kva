@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kva:home|Door43 (kva)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kva|d43-kva repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kva/archive/master.zip|d43-kva.zip]]
+
+**Recent Changes**
+{{changes>ns = kva}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kva|Ethnologue data]]
+
